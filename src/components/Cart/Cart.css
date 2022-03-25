@@ -1,0 +1,11 @@
+.cart{
+    width: 22rem;
+    color: whitesmoke;
+    margin-left: 56rem;
+    padding: 20px;
+    background-color: rgba(44, 42, 42, 0.863);
+    position: absolute;
+}
+.cart h2{
+    text-align: center;
+}
